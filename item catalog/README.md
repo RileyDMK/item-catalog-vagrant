@@ -16,7 +16,7 @@ When that is finished, run the command `vagrant ssh` to log into the newly insta
 
 ## Usage
 
-While in the VM, navigate to `/vagrant/item_catalog`.
+While in the VM, navigate to `/vagrant/item catalog`.
 
 Run the command `python project.py` to run the app.
 
